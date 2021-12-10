@@ -4,3 +4,4 @@
 
 	 - Pão
 	 - carne
+	 - alface
