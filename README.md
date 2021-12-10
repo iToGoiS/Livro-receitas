@@ -1,6 +1,6 @@
-<h1> lIVRO DE rECEITAS :coo<h1>
+<h1> LIVRO DE RECEITAS :coo<h1>
 
-	Olá, Bem bindo ao licvro de receitas
+	Olá, Bem vindo ao livro de receitas
 
 	 - Pão
 	 - carne
